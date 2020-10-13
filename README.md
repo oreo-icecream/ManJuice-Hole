@@ -9,7 +9,7 @@
 # Usage
 You can do almost anything you want with my code. But if you want it plain. 
 
-Change ```<API Key>``` for your API Key and do the same with the other things. (If you need help, message me! :heart:)
+Change ```<API Key>``` for your API Key and do the same with the other things. If you need help, message me @ UnoriginalLuke#7232 (discord)
 
 
 ```python
