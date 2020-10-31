@@ -8,7 +8,7 @@ auth = tweepy.OAuthHandler("<API Key>", "API Key Secret") # I removed the OAuthH
 auth.set_access_token("<Token Key>", '<Token Key Secret>') # This too
 api = tweepy.API(auth)
 
-cum_text = ["https://raw.githubusercontent.com/oreo-icecream/CumTwitterBot/master/101_cum", "https://raw.githubusercontent.com/oreo-icecream/CumTwitterBot/testing/original_101_cum.txt"] # Downloads a text file (as of dd/mm/yy. It's text FILES)
+cum_text = ["https://raw.githubusercontent.com/oreo-icecream/ManJuice-Hole/master/101_cum", "https://raw.githubusercontent.com/oreo-icecream/ManJuice-Hole/master/original_101_cum.txt"] # Downloads a text file (as of dd/mm/yy. It's text FILES)
 
 #Variables and importent stuff ^
 #try:
