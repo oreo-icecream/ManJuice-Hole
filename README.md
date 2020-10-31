@@ -1,3 +1,7 @@
+# The development of this bot has slowed down!!!!
+
+
+
 # Cummy Twitter Bot
 
 #### A dumb twitter bot by @oreo-icecream
