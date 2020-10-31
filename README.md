@@ -2,7 +2,7 @@
 
 
 
-# Cummy Twitter Bot
+# ManJuice-Hole
 
 #### A dumb twitter bot by @oreo-icecream
 
